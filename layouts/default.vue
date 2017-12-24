@@ -2,14 +2,14 @@
   <div>
     <!-- Header -->
     <header id="header">
-      <a href="/#intro"><h1>Villa Nuits</h1></a>
+      <a href="/#intro"><h1>Mason & Cecilia</h1></a>
       <nav>
         <ul>
           
-          <li><a href="/#where">Where</a></li>
+          <li><a href="/#where">Location</a></li>
           <li><a href="/#details">Details</a></li>
           <li><a href="/#gifts">Gifts</a></li>
-          <li> <a href="https://docs.google.com/forms/d/1g5NrGs2cTvKsMqUXWoUYJOidZPbMlCEQcOjoSZTpC7U/" class="button--green2" target=_blank>RSVP</a></li>
+          <li> <a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" class="button--green2" target=_blank>RSVP</a></li>
         </ul>
       </nav>
     </header>
@@ -31,7 +31,7 @@
 
       <!-- Menu -->
         <ul class="menu">
-          <li>Website by <a href="https://darkgrey.media/">Darkgrey Media</a></li>
+          <li>Website <a href="https://www.youtube.com/watch?v=bJ2PnVneTbk">by</a> Cecilia. shit's custom.</li>
         </ul>
 
     </footer>
