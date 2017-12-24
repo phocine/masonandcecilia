@@ -27,7 +27,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    publicPath: 'https://phocine.github.io/masonandcecilia/',
+    // publicPath: 'https://phocine.github.io/masonandcecilia/',
     /*
     ** Run ESLINT on save
     */
