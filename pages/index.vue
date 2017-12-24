@@ -6,7 +6,7 @@
 					<header>
 						<h2>Mason & Cecilia</h2><h3>do the thing</h3>
 					</header>
-					<p>Saturday June 16th 2018 at 2pm<br> 55 Hudson Road West, Irvginton NY, 10533</p>
+					<p>2pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvginton NY, 10533</p>
 					
 				</div>
 			</section>
@@ -16,9 +16,9 @@
 			<section id="two" class="main style2 left dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>Ceremony</h2>
+						<h2>Event Details</h2>
 					</header>
-					<p>We'll be getting married in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry including drinks, buffet dinner, games, dancing, and so much merriment.</p>
+					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry including drinks, buffet dinner, games, dancing, and so much merriment.</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
