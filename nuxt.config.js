@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Mason & Cecilia',
+    title: 'Cecilia & Mason',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -27,7 +27,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    cdn: 'https://phocine.github.io/masonandcecilia/',
+    publicPath: 'https://phocine.github.io/masonandcecilia/',
     /*
     ** Run ESLINT on save
     */
