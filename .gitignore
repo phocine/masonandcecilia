@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+# dist
+# removing this to try to fix push-dir with custom domain
