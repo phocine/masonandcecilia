@@ -1,6 +1,7 @@
 <template>
   <div>
 		<!-- Intro -->
+
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content">                             
 					<header>
@@ -18,17 +19,20 @@
 					<header>
 						<h2>Event Details</h2>
 					</header>
-					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry including drinks, buffet dinner, games, dancing, and so much merriment.</p>
+					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry including drinks, buffet dinner, games, dancing, and so much merriment. </p>
 				</div>
-				<a href="#work" class="button style2 down anchored">Next</a>
+				
 			</section>
+<img class="mobile-img" src="/images/KAwed.jpg">
+			<!--twomobile-->
+
 
 		<!-- Where -->
 			<section id="where" class="main style3 primary">
 				<div class="content">
 					<header>
 						<h2>Where</h2>
-						<p><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
+						<p>2pm on Saturday, June 16th, 2018 at<br><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
 Irvington, NY, 10533</strong></a></p>
 
 					</header>
@@ -40,11 +44,15 @@ Irvington, NY, 10533</strong></a></p>
 							<article class="from-right">
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
-<strong>Getting there</strong> <P>The house is a healthy walk from the Ardsley on Hudson Metro North station. Use directions to 2 Clifton Place, if you walk. Driving / Ubering: Take the driveway all the way around and make a left at the sign for 55.</p>  <img width=40% src="/images/fulls/VNmap.jpg"> 
+<strong>Getting there</strong> <P>Train:<br>The house is a healthy walk from the Ardsley on Hudson Metro North station, wich runs once an hour. Use directions to 2 Clifton Place, if you walk.</P>
+
+<p>Driving / Ubering: <br>
+If you're staying at a hotel nearby, uber/cabs may be best since parking at the site is limited. Drivers can come directly up to the house & lawn for drop-offs (minimal walking required). Take the driveway all the way around and make a left at the sign for 55. </p>  <img width=40% src="/images/fulls/VNmap.jpg"> 
 
 
 				</div>
 			</section>
+			<img class="mobile-img" src="/images/muir.jpg">
 
 <section id="details" class="main style2 right dark fullscreen">
 				<div class="content box style2">
@@ -56,12 +64,12 @@ Irvington, NY, 10533</strong></a></p>
 						<br>
 						"Semi-formal", if you want to put a point on it. But really, just feel pretty and be comfortable! We'll be inside and out (weather permitting) and it will likely be warm. Ps, feel welcome to bring a swimsuit. The bride may be jumping in.
 					</p>
-					<p><strong>Stay & go</strong>
+					<p><strong>Stay</strong>
 						<br>
 						Nearby hotels: <br>
 <a href="http://www.ardsleymotel.com/" target=_blank>Ardsley Motel</a> (from $90)
 <br><a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estates</a> (from $190)<br>
-Travel: Uber and cabs go reliably to and from this location to both hotels
+We recommend using Uber/cabs to get to and from your hotel, since parking may be limited (and so you can have more fun!)
 					</p>
 					<p><strong>Children and Pets</strong>
 						<br>
@@ -69,16 +77,16 @@ Travel: Uber and cabs go reliably to and from this location to both hotels
 					</p>
 
 				</div>
-				<a href="#work" class="button style2 down anchored">Next</a>
+				
 			</section>
-
+<img class="mobile-img" src="/images/Ritball.jpg">
 
 		<!-- Contact -->
 			<section id="gifts" class="main style3 secondary">
 				<div class="content">
 					<header>
 						<h2>Gifts</h2>
-						<p>The main thing we'd like are honeymoon funds so we can take a trip! </p><p>Our mailing address is 408 S 19th st, Phila PA 19146. We also take payment in dog training because Peanut. (Sorry.) Alternatively, we're registered at <a href="https://www.amazon.com/wedding/share/hippzak" target="_blank">Amazon</a> for the usual lovely bric a brac.</p>
+						<p>The main thing we'd like are honeymoon funds so we can take a trip! Our mailing address is 408 S 19th st, Phila PA 19146. We also take payment in dog training because Peanut. (Sorry.) </p><p>Alternatively, we're registered at <a href="https://www.amazon.com/wedding/share/hippzak" target="_blank">Amazon</a> for the usual lovely bric a brac.</p>
 					</header>
 					<!--<div class="box">
 						<form method="post" action="mailto:martinwdolan@icloud.com">
@@ -156,6 +164,39 @@ Travel: Uber and cabs go reliably to and from this location to both hotels
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
   }
+
+.mobile-img{
+	max-width:100%;
+	display:none;
+}
+
+@media (max-width: 768px){
+	.mobile-img{
+		display: block;
+	} 
+
+	#two{
+		padding:0px;
+		background:none;
+		background-color:#fff;
+
+		.content{
+			width:100%;
+			padding:50px 30px;
+		}
+	}
+	section#details{
+		padding:0px;
+		background:none;
+		background-color:#fff;
+
+		.content{
+			width:100%;
+			padding:50px 30px;
+		}
+	}
+
+}
 
   /* Three */
 
