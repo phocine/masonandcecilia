@@ -7,7 +7,7 @@
 					<header>
 						<h2>Mason & Cecilia</h2><h3>do the thing</h3>
 					</header>
-					<p>2pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvginton NY, 10533</p>
+					<p>2pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvington NY, 10533</p>
 					
 				</div>
 			</section>
@@ -44,10 +44,20 @@ Irvington, NY, 10533</strong></a></p>
 							<article class="from-right">
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
-<strong>Getting there</strong> <P>Train:<br>The house is a healthy walk from the Ardsley on Hudson Metro North station, wich runs once an hour. Use directions to 2 Clifton Place, if you walk.</P>
+<strong>Getting there</strong> 
 
-<p>Driving / Ubering: <br>
-If you're staying at a hotel nearby, uber/cabs may be best since parking at the site is limited. Drivers can come directly up to the house & lawn for drop-offs (minimal walking required). Take the driveway all the way around and make a left at the sign for 55. </p>  <img width=40% src="/images/fulls/VNmap.jpg"> 
+<p>Train & shuttle:<br>
+	The house is right by the Ardsley-on-Hudson Metro North station, and the train runs every hour. We'll be organizing a shuttle to/from the station (it's also an easy 10 - 15 minute walk; just use directions to 2 Clifton Place).
+
+</p>
+
+<p>Driving:<br>
+	We recommend Uber/cabs if you're staying at a nearby hotel, since parking is limited (and so you can have more fun!) If you prefer to drive, there is extra parking at the train station, and a shuttle will be going back & forth. 
+</p>
+
+
+<img width=40% src="/images/fulls/VNmap2.jpg"> 
+<p>Drivers can come directly up to the house & lawn for drop-offs. Tell them to take the driveway all the way around and make a left at the sign for 55.</p>
 
 
 				</div>
@@ -68,8 +78,7 @@ If you're staying at a hotel nearby, uber/cabs may be best since parking at the 
 						<br>
 						Nearby hotels: <br>
 <a href="http://www.ardsleymotel.com/" target=_blank>Ardsley Motel</a> (from $90)
-<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estates</a> (from $190)<br>
-We recommend using Uber/cabs to get to and from your hotel, since parking may be limited (and so you can have more fun!)
+<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estates</a> (from $190)<br> These are both a ~10 minute drive from the venue, and we recommend ordering an Uber/cab!
 					</p>
 					<p><strong>Children and Pets</strong>
 						<br>
