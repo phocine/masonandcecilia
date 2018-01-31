@@ -82,7 +82,7 @@ Irvington, NY, 10533</strong></a></p>
 					</p>
 					<p><strong>Children and Pets</strong>
 						<br>
-						Given the rental house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut will be in attendance, if he can get his act together.
+						Given the rental house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut however will be in attendance, if he can get his act together.
 					</p>
 
 				</div>
