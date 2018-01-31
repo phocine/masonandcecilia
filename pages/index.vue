@@ -154,7 +154,7 @@ We'll be shuttling from the train station parking lot to the house, starting aro
 /* Book */
 
 	#book {
-		background: url('/static/assets/css/images/overlay.png'), url('/static/images/detail.jpg');
+		background: url('/static/assets/css/images/overlay.png'), url('/static/images/couch.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
