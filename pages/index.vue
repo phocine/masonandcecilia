@@ -20,6 +20,7 @@
 						<h2>Event Details</h2>
 					</header>
 					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry with serve-yourself drinks and buffet dinner, games, dancing, and so much merriment. As the hour gets later we'll be moving inside to be respectful to the neighbors.</p>
+						<a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" target=_blank><h3 class="button" target="_blank">RSVP</h3></a>
 				</div>
 				
 			</section>
@@ -46,11 +47,13 @@ Irvington, NY, 10533</strong></a></p>
 </div>
 <strong>Getting there</strong> 
 <p><em>Staying at a nearby hotel? We recommend Uber / Lyft</em> <br>There's limited parking on site, so Uber/Lyft/cabbing is the best bet. Tell them to go all the way around the one way roundabout, and turn left at 55 Hudson Road. Drivers can come directly up to the house & lawn for drop-offs.</p>
-<img width=40% src="/images/fulls/VNmap2.jpg"> 
+<img width=100% src="/images/fulls/VNmap2.jpg"> 
 <p><em>Not Ubering?</em><br>1. Get to the Ardsley-on-Hudson Metro North station <br>
-Drive your car to park at the station, or take the train (it runs every hour from Manhattan).</p>
+Drive your car to park at the station since there won't be much parking on-site. Or take the train (it runs every hour from Manhattan, and is a ~30min trip).</p>
 <p>2. Shuttle to the house<br>
 We'll be shuttling from the train station parking lot to the house, starting around 1pm. It's also an easy 10 - 15 minute walk.</p>
+
+
 
 
 
