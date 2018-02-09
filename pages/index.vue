@@ -19,7 +19,7 @@
 					<header>
 						<h2>Event Details</h2>
 					</header>
-					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry with serve-yourself drinks and buffet dinner, games, dancing, and so much merriment. As the hour gets later we'll be moving inside to be respectful to the neighbors.</p>
+					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry with serve-yourself drinks and buffet, games, dancing, and so much merriment. As the hour gets later we'll be moving inside to be respectful to the neighbors.</p>
 						<a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" target=_blank><h3 class="button" target="_blank">RSVP</h3></a>
 				</div>
 				
@@ -46,12 +46,14 @@ Irvington, NY, 10533</strong></a></p>
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
 <strong>Getting there</strong> 
-<p><em>Staying at a nearby hotel? We recommend Uber / Lyft</em> <br>There's limited parking on site, so Uber/Lyft/cabbing is the best bet. Tell them to go all the way around the one way roundabout, and turn left at 55 Hudson Road. Drivers can come directly up to the house & lawn for drop-offs.</p>
+<p><em>Shuttle</em><br>
+	We'll be running a Shuttle from the nearby metro station and the <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a> starting around 1pm, and back around 9 or 10pm.</p>
+<p><em>Uber / Lyft / Cab</em><br>
+	<em>Drop off:</em> Tell the driver to go all the way around the one-way roundabout and then make a left into 55 Hudson Road West.
+	<em>Pickup:</em> We can shuttle folks back to most nearby hotels. <em>(If you prefer to uber: use the address 55 Hudson Rd West — not your pin location.)</em>
+</p>
 <img width=100% src="/images/fulls/VNmap2.jpg"> 
-<p><em>Not Ubering?</em><br>1. Get to the Ardsley-on-Hudson Metro North station <br>
-Drive your car to park at the station since there won't be much parking on-site. Or take the train (it runs every hour from Manhattan, and is a ~30min trip).</p>
-<p>2. Shuttle to the house<br>
-We'll be shuttling from the train station parking lot to the house, starting around 1pm. It's also an easy 10 - 15 minute walk.</p>
+<p><em>Driving / Taking the Train?</em><br>Park at the Ardsley-on-Hudson Metro North station (there's limited parking on site), and take the shuttle (see above). It's also an easy 10 - 15 minute walk. The train runs every hour, a ~30min trip from Manhattan.</p>
 
 
 
@@ -68,16 +70,14 @@ We'll be shuttling from the train station parking lot to the house, starting aro
 						<h2>Further Information</h2>
 						<p>(Or, "shoot, it's too late to text them and ask this..")</p>
 					</header>
+
+					<p><strong>Stay</strong>
+					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> is the closest hotel, about a 7 minute drive. We'll be running a shuttle to and from hotel to house!</p>
 					<p><strong>Dress</strong>
 						<br>
 						"Semi-formal", if you want to put a point on it. But really, just feel pretty and be comfortable! We'll be inside and out (weather permitting) and it will likely be warm. Ps, feel welcome to bring a swimsuit. The bride may be jumping in.
 					</p>
-					<p><strong>Stay</strong>
-						<br>
-						Nearby hotels: <br>
-<a href="http://www.ardsleymotel.com/" target=_blank>Ardsley Motel</a> (from $90)
-<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estates</a> (from $190)<br> These are both a ~10 minute drive from the venue, and we recommend ordering an Uber/cab!
-					</p>
+					
 					<p><strong>Children and Pets</strong>
 						<br>
 						Given the rental house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut however will be in attendance, if he can get his act together.
