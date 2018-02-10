@@ -49,7 +49,7 @@ Irvington, NY, 10533</strong></a></p>
 <p><em>Shuttle</em><br>
 	We'll be running a Shuttle from the nearby metro station parking lot and the <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a> starting around 1pm, and back around 9 or 10pm.</p>
 	<p><em>Driving / Taking the Train</em><br>Park at the Ardsley-on-Hudson Metro North station (there's limited parking on site), and take the shuttle (see above). It's also an easy 10 - 15 minute walk. The train runs every hour, a ~30min trip from Manhattan.</p>
-<img width=100% src="/images/fulls/VNmap2.jpg"> 
+<img width=100% src="/images/fulls/VNmap3.jpg"> 
 <p><em>Uber / Lyft / Cab</em><br>
 	<em>Drop off:</em> Tell the driver to go all the way around the one-way roundabout and then make a left into 55 Hudson Road West.
 	<em>Pickup:</em> We can shuttle folks back to most nearby hotels. <em>(If you prefer to uber: use the address 55 Hudson Rd West — not your pin location.)</em>
