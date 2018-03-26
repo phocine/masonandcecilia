@@ -47,7 +47,7 @@ Irvington, NY, 10533</strong></a></p>
 </div>
 <strong>Getting there</strong> 
 <p><em>Shuttle</em><br>
-	We'll be running a Shuttle from the nearby metro station parking lot and the <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a> starting around 1pm, and back around 9 or 10pm.</p>
+	We'll be running a Shuttle from the Ardsley on Hudson metro station parking lot and nearby hotels starting around 1pm, and back around 9 or 10pm.</p>
 	<p><em>Driving / Taking the Train</em><br>Park at the Ardsley-on-Hudson Metro North station (there's limited parking on site), and take the shuttle (see above). It's also an easy 10 - 15 minute walk. The train runs every hour, a ~30min trip from Manhattan.</p>
 <img width=100% src="/images/fulls/VNmap3.jpg"> 
 <p><em>Uber / Lyft / Cab</em><br>
@@ -72,7 +72,7 @@ Irvington, NY, 10533</strong></a></p>
 					</header>
 
 					<p><strong>Stay</strong>
-					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> is the closest hotel, about a 7 minute drive. We'll be running a shuttle to and from hotel to house!</p>
+					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> (from $190) and the <a href="http://www.ardsleymotel.com/">Ardsley Motel</a> (from $90) are the closest hotels, less than a 10 minute drive. We'll be running a shuttle to and from hotels to house!</p>
 					<p><strong>Dress</strong>
 						<br>
 						"Semi-formal", if you want to put a point on it. But really, just feel pretty and be comfortable! We'll be inside and out (weather permitting) and it will likely be warm. Ps, feel welcome to bring a swimsuit. The bride may be jumping in.
