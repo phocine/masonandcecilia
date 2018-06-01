@@ -6,7 +6,7 @@
       <nav>
         <ul>
           
-          <li><a href="/#where">Location</a></li>
+          <li><a href="/#where">Getting there</a></li>
           <li><a href="/#details">Details</a></li>
           <li><a href="/#gifts">Gifts</a></li>
           <li> <a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" class="button--green2" target=_blank>RSVP</a></li>

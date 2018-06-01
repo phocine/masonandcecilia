@@ -32,7 +32,7 @@
 			<section id="where" class="main style3 primary">
 				<div class="content">
 					<header>
-						<h2>Where</h2>
+						<h2>Getting there</h2>
 						<p>2pm on Saturday, June 16th, 2018 at<br><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
 Irvington, NY, 10533</strong></a></p>
 
@@ -45,12 +45,20 @@ Irvington, NY, 10533</strong></a></p>
 							<article class="from-right">
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
-<strong>Getting there</strong> 
-<p><em>Please do not Uber / Lyft:</em> drivers won't be able to get to the right entrance for drop off or pick up. Instead:<br></p>
-<p><em>Shuttle</em><br>
-	We'll be running a Shuttle from the two recommended hotels starting around 1pm, and back in the evening. We'll also be picking folks up from the train station.</p>
-	<p><em>Driving / Taking the Train</em><br>Park at the Ardsley-on-Hudson Metro North station (there's limited parking on site), and take the shuttle (see above). It's also an easy 10 - 15 minute walk. The train runs every hour, a ~30min trip from Manhattan.</p>
-<img width=100% src="/images/fulls/VNmap3.jpg"> 
+<strong>Getting to the venue: take the shuttle</strong> 
+<p><em>Please do not Uber / Lyft / cab or drive;</em> the venue is in a private community and drivers have been causing disturbances.
+	<p>
+		<em>Shuttle pick up times & locations:</em><br>
+- <a href="http://www.ardsleymotel.com/" target=_blank>Ardsley Motel</a>: 1:20pm and 1:50pm<br>
+- <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a>: 1:20pm and 1:50pm<br>
+- Ardsley-on-Hudson Metro-North Station parking lot: Train from Manhattan arrival time: 2:06pm<br><br>
+
+<em>Shuttling back to hotels & train station:</em><br>
+- 9pm, 9:45pm, 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station, see below)<br><br>
+<img width=100% src="/images/fulls/VNmap3.jpg"> <br>
+<em>Use the train station parking lot to drive or Uber</em> (5 minute walk or 1 minute shuttle from house)<br>
+There's no parking on site, so all drivers will need to park at the train station. See above for shuttle pick up time. Ubers can easily pick you up and drop you off from the station as well.</p>
+
 
 
 
@@ -70,7 +78,7 @@ Irvington, NY, 10533</strong></a></p>
 					</header>
 
 					<p><strong>Stay</strong>
-					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> (from $190) and the <a href="http://www.ardsleymotel.com/">Ardsley Motel</a> (from $90) are the closest hotels, less than a 10 minute drive. We'll be running a shuttle to and from hotels to house!</p>
+					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> (from $190) and the <a href="http://www.ardsleymotel.com/">Ardsley Motel</a> (from $90) are the closest hotels, less than a 10 minute drive. See above for shuttle from hotels to house details!</p>
 					<p><strong>Dress</strong>
 						<br>
 						"Semi-formal", if you want to put a point on it. But really, just feel pretty and be comfortable! We'll be inside and out (weather permitting) and it will likely be warm. Ps, feel welcome to bring a swimsuit. The bride may be jumping in.
@@ -78,7 +86,7 @@ Irvington, NY, 10533</strong></a></p>
 					
 					<p><strong>Children and Pets</strong>
 						<br>
-						Given the rental house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut however will be in attendance, if he can get his act together.
+						Given the house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut however will be in attendance, if he can get his act together.
 					</p>
 
 				</div>
