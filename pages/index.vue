@@ -46,19 +46,19 @@ Irvington, NY, 10533</strong></a></p>
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
 <strong>Getting to the venue: take the shuttle</strong> 
-<p><em>Please do not Uber / Lyft / cab or drive;</em> the venue is in a private community and drivers have been causing disturbances.
+<p><em>Please do not Uber / Lyft / cab, or drive;</em> the venue is in a private community and drivers have been causing disturbances.
 	<p>
 		<em>Shuttle pick up times & locations:</em><br>
-- <a href="http://www.ardsleymotel.com/" target=_blank>Ardsley Motel</a>: 1:20pm and 1:50pm<br>
-- <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a>: 1:20pm and 1:50pm<br>
-- Ardsley-on-Hudson Metro-North Station parking lot: Train from Manhattan arrival time: 2:06pm<br><br>
+- <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a>: 1:40pm, 1:50, and 2pm<br>
+- <a href="http://as0.mta.info/mnr/stations/station_detail.cfm?key=26" target=_blank>Ardsley-on-Hudson Metro-North Station</a> parking lot: 2:06pm<br><br><br>
+<em>How to drive Drive or Uber: use the train station</em>
+<img width=100% src="/images/fulls/VNmap_DriveUber.jpg"> <br>
 
 <em>Shuttling back to hotels & train station:</em><br>
-- 9pm, 9:45pm, 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station, see below)<br><br>
-<img width=100% src="/images/fulls/VNmap3.jpg"> <br>
+- Every half hour, 8:30pm to 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station, see below)<br><br>
+<!-- <p><img width=100% src="/images/fulls/VNmap3.jpg"> <br>
 <em>Use the train station parking lot to drive or Uber</em> (5 minute walk or 1 minute shuttle from house)<br>
-There's no parking on site, so all drivers will need to park at the train station. See above for shuttle pick up time. Ubers can easily pick you up and drop you off from the station as well.</p>
-
+There's no parking on site, so all drivers will need to park at the train station. See above for shuttle pick up time. Ubers can easily pick you up and drop you off from the station as well. </p> --> </p>
 
 
 
