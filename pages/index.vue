@@ -7,7 +7,7 @@
 					<header>
 						<h2>Mason & Cecilia</h2><h3>do the thing</h3>
 					</header>
-					<p>2pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvington NY, 10533</p>
+					<p>2:30pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvington NY, 10533</p>
 					
 				</div>
 			</section>
@@ -33,7 +33,7 @@
 				<div class="content">
 					<header>
 						<h2>Getting there</h2>
-						<p>2pm on Saturday, June 16th, 2018 at<br><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
+						<p>2:30pm on Saturday, June 16th, 2018 at<br><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
 Irvington, NY, 10533</strong></a></p>
 
 					</header>
@@ -46,17 +46,20 @@ Irvington, NY, 10533</strong></a></p>
 								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
 <strong>Getting to the venue: take the shuttle</strong> 
-<p><em>Please do not Uber / Lyft / cab, or drive;</em> the venue is in a private community and drivers have been causing disturbances.
+<p><em>Please do not Uber / Lyft / cab;</em> the venue is in a private community and drivers have been causing disturbances.
 	<p>
 		<em>Shuttle pick up times & locations:</em><br>
 - <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a>: 1:40pm, 1:50, and 2pm<br>
-- <a href="http://as0.mta.info/mnr/stations/station_detail.cfm?key=26" target=_blank>Ardsley-on-Hudson Metro-North Station</a> parking lot: 2:06pm<br><br><br>
-<em>How to drive Drive or Uber: use the train station</em>
-<img width=100% src="/images/fulls/VNmap_DriveUber.jpg"> <br>
+- <a href="http://as0.mta.info/mnr/stations/station_detail.cfm?key=26" target=_blank>Ardsley-on-Hudson Metro-North Station</a> parking lot: 2:06pm<br><br>
 
 <em>Shuttling back to hotels & train station:</em><br>
-- Every half hour, 8:30pm to 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station, see below)<br><br>
-<!-- <p><img width=100% src="/images/fulls/VNmap3.jpg"> <br>
+- Every half hour, 8:30pm to 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station.)
+
+<!-- <em>How to drive Drive or Uber: use the train station</em>
+<img width=100% src="/images/fulls/VNmap_DriveUber.jpg"> <br>
+
+<br><br>
+<p><img width=100% src="/images/fulls/VNmap3.jpg"> <br>
 <em>Use the train station parking lot to drive or Uber</em> (5 minute walk or 1 minute shuttle from house)<br>
 There's no parking on site, so all drivers will need to park at the train station. See above for shuttle pick up time. Ubers can easily pick you up and drop you off from the station as well. </p> --> </p>
 
