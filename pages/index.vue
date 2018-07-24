@@ -5,9 +5,11 @@
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content">                             
 					<header>
-						<h2>Mason & Cecilia</h2><h3>do the thing</h3>
+						<h2>Chelsea & Jason</h2><h3>are getting married</h3>
 					</header>
-					<p>2:30pm on Saturday, June 16th, 2018<br> 55 Hudson Road West, Irvington NY, 10533</p>
+					<p>Friday, October 5th - Sunday, October 7th, 2018<br>
+Foxtail Community Farm, Greenville, New York 
+</a> </p>
 					
 				</div>
 			</section>
@@ -19,12 +21,12 @@
 					<header>
 						<h2>Event Details</h2>
 					</header>
-					<p>We'll be getting married on the lawn (or crowd inside if weather dictates) in an informal, semi-secular, and probably not-entirely-traditional style. Afterward there will be house party revelry with serve-yourself drinks and buffet, games, dancing, and so much merriment. As the hour gets later we'll be moving inside to be respectful to the neighbors.</p>
+					<p>We’ll be getting married in the woods on a field, in an informal and probably not-entirely-traditional style. Afterward there will be festivities on the grounds with serve-yourself drinks and bbq, lawn games, dancing, and so much merriment. As the hour gets later we'll have a sizable bonfire, complete with s’mores and toasty bottoms.</p>
 						<a href="https://goo.gl/forms/VhGFkgeedX6JtxNQ2" target=_blank><h3 class="button" target="_blank">RSVP</h3></a>
 				</div>
 				
 			</section>
-<img class="mobile-img" src="/images/KAwed.jpg">
+<img class="mobile-img" src="/images/heroimage.jpg">
 			<!--twomobile-->
 
 
@@ -32,64 +34,65 @@
 			<section id="where" class="main style3 primary">
 				<div class="content">
 					<header>
-						<h2>Getting there</h2>
-						<p>2:30pm on Saturday, June 16th, 2018 at<br><a href="https://www.google.com/maps/place/55+Hudson+Rd+W,+Irvington,+NY+10533/@41.0247179,-73.8763147,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2eb650aecc48d:0x2bf3c750f6815205!8m2!3d41.0247179!4d-73.874126?hl=en" target="_blank"><strong>55 Hudson Road West<br>
-Irvington, NY, 10533</strong></a></p>
+						<h2>About the Location</h2>
+						<p>Foxtail Community Farm<br><a href="https://www.google.com/maps/place/Foxtail+Community+Farm/@42.420521,-74.0892268,15z/data=!4m5!3m4!1s0x0:0xa7608e2aff3fb38e!8m2!3d42.420521!4d-74.0892268" target="_blank">
+506 County Route 75<br>
+Greenville NY 12083</a></p>
 
 					</header>
 
 					<!-- Gallery  -->
 						<div class="gallery">
 							<article class="from-left">
-								<a href="/images/fulls/front.jpg" class="image fit"><img src="/images/thumbs/frontTH.jpg" title="A wraparound porch and conservatory fountain are the focal points of this redesigned entryway." alt="" /></a></article>
+								<a href="/images/chel_sign.jpg" class="image fit"><img src="/images/chel_sign.jpg" title="A wraparound porch and conservatory fountain are the focal points of this redesigned entryway." alt="" /></a></article>
 							<article class="from-right">
-								<a href="/images/fulls/conserv.jpg" class="image fit"><img src="/images/thumbs/conservTH.jpg" title="The conservatory leads out to the side lawn." alt="" /></a></article>
+								<a href="/images/chel_path.JPG" class="image fit"><img src="/images/chel_path.JPG" title="The conservatory leads out to the side lawn." alt="" /></a></article>
 </div>
-<strong>Getting to the venue: take the shuttle</strong> 
-<p><em>Please do not Uber / Lyft / cab;</em> the venue is in a private community and drivers have been causing disturbances.
-	<p>
-		<em>Shuttle pick up times & locations:</em><br>
-- <a href="http://www.tarrytownhouseestate.com/" target=_blank>Tarrytown Estate</a>: 1:40pm, 1:50, and 2pm<br>
-- <a href="http://as0.mta.info/mnr/stations/station_detail.cfm?key=26" target=_blank>Ardsley-on-Hudson Metro-North Station</a> parking lot: 2:06pm<br><br>
-
-<em>Shuttling back to hotels & train station:</em><br>
-- Every half hour, 8:30pm to 10:30pm<br>(If you want to leave at a different time, we can help ferry you to the train station.)
-
-<!-- <em>How to drive Drive or Uber: use the train station</em>
-<img width=100% src="/images/fulls/VNmap_DriveUber.jpg"> <br>
-
-<br><br>
-<p><img width=100% src="/images/fulls/VNmap3.jpg"> <br>
-<em>Use the train station parking lot to drive or Uber</em> (5 minute walk or 1 minute shuttle from house)<br>
-There's no parking on site, so all drivers will need to park at the train station. See above for shuttle pick up time. Ubers can easily pick you up and drop you off from the station as well. </p> --> </p>
+<strong>About the Location</strong> 
+<p>
+	Foxtail Community Farm is an active farm! It’s family owned and operated, with a commitment to sustainability — you’ll even see some of their delicious food on our wedding menu. The campground is off the grid on five acres of beautiful, secluded land. We have the entire place to ourselves! The fantastic owners have been so welcoming to us and are working tirelessly to make our stay wonderful and woodsy.<br>
 
 
+</p>
 
 
+<strong>Getting There</strong> 
+<p>
+	<ol>
+		<li><em>Parking:</em> There is parking in the main driveway (look for signs), where you’ll be able to park and stage your bags to carry in. </li>
+<li><em>Getting in:</em> It’s a 5-minute walk down a beautiful dirt road. There will be hand-pulled wagons available to tote your gear down to the site. Let us know if any of this will be tough for you and we will be there to help!</li>
+<li><em>Finding your tent / campsite:</em> You’ll get a map with your assigned location marked on it.</li>
+	</ol>
+
+
+</p>
 
 
 
 				</div>
 			</section>
-			<img class="mobile-img" src="/images/muir.jpg">
+			<img class="mobile-img" src="/images/cheltwo.jpg">
 
 <section id="details" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>Further Information</h2>
-						<p>(Or, "shoot, it's too late to text them and ask this..")</p>
+						<h2>Wedding Information</h2>
 					</header>
+<p>
+					Important note: this is real camping. It’s a walk-in site, with no electricity or running water. There are porta-potties and potable water however. You will get dirty (so don't wear your Manolo Blahniks. DO wear your knock-off Manolo Bleh-niks).</p>
+					<strong>Arrival time options</strong> 
+<p><ol><li>1. Friday after 4pm (camping for the weekend) </li> <li>2. Saturday 11am (camping for Saturday) </li> <li> 3. Saturday 2pm (Just coming for wedding)</li></ol>
+</p>
 
-					<p><strong>Stay</strong>
-					<br><a href="http://www.tarrytownhouseestate.com/" target=_blank>The Tarrytown Estate</a> (from $190) and the <a href="http://www.ardsleymotel.com/">Ardsley Motel</a> (from $90) are the closest hotels, less than a 10 minute drive. See above for shuttle from hotels to house details!</p>
+
 					<p><strong>Dress</strong>
 						<br>
-						"Semi-formal", if you want to put a point on it. But really, just feel pretty and be comfortable! We'll be inside and out (weather permitting) and it will likely be warm. Ps, feel welcome to bring a swimsuit. The bride may be jumping in.
+						"Woods Fancy". That means "business casual" attire that you feel great in, but  also don't mind getting a little mud on. We'll be on grass, so heels aren't recommended, and everything is outside (it's October, it might be chilly). But really, just feel pretty and be comfortable! 
 					</p>
 					
 					<p><strong>Children and Pets</strong>
 						<br>
-						Given the house's rules, this will be an adult-humans only event. If possible, please leave young children & pups with their excited-to-babysit in-laws. Peanut however will be in attendance, if he can get his act together.
+						Please leave young children & pups with their excited-to-babysit in-laws. Our two dogs will be in attendance; feel free to pack belly rubs. 
 					</p>
 
 				</div>
@@ -97,12 +100,48 @@ There's no parking on site, so all drivers will need to park at the train statio
 			</section>
 <img class="mobile-img" src="/images/Ritball.jpg">
 
+<!-- Four -->
+			<section id="four" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>Camping Information</h2>
+					</header>
+				<p><strong>What to Bring</strong>
+						<br>
+					
+<ul>
+<li>- Sleeping gear <br>
+(Sleeping pad or air mattress, Pillow, Sleeping bag or sheets and blanket)</li>
+<li>- Camp chair</li>
+<li>- Toiletries</li>
+<li>- Water bottle</li>
+<li>- A flashlight</li>
+<li>- Some extra cold-weather clothing (it might get cold at night!)</li>
+</ul>
+
+
+					</p>
+
+					<p><strong>What is Provided</strong>
+						<br>
+						<ul>
+<li>- Lanterns & little flashlights</li>
+<li>- Electronic charging station</li>
+<li>- Hammocks </li>
+<li>- All things citronella </li>
+<li>- Tent (Let us know if you don't have your own tent, and we can provide one!)</li>
+					</ul></p>
+					
+				</div>
+				
+			</section>
+
 		<!-- Contact -->
 			<section id="gifts" class="main style3 secondary">
 				<div class="content">
 					<header>
 						<h2>Gifts</h2>
-						<p>The main thing we'd like are honeymoon funds so we can take a trip! Our mailing address is 408 S 19th st, Phila PA 19146. We also take payment in dog training because Peanut. (Sorry.) </p><p>Alternatively, we're registered at <a href="https://www.amazon.com/wedding/share/hippzak" target="_blank">Amazon</a> for the usual lovely bric a brac.</p>
+						<p>The main thing we'd like are honeymoon funds so we can take a trip! </p><p>Alternatively, we're registered at <a href="https://www.amazon.com/wedding/share/hippzak" target="_blank">Amazon</a> for the usual lovely bric a brac.</p>
 					</header>
 					<!--<div class="box">
 						<form method="post" action="mailto:martinwdolan@icloud.com">
@@ -146,7 +185,7 @@ There's no parking on site, so all drivers will need to park at the train statio
 /* Intro */
 
 	#intro {
-		background: url('/static/images/heroimage.jpg');
+		background: url('/static/images/cheltwo.jpg');
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -166,7 +205,7 @@ There's no parking on site, so all drivers will need to park at the train statio
 /* Book */
 
 	#book {
-		background: url('/static/assets/css/images/overlay.png'), url('/static/images/couch.jpg');
+		background: url('/static/assets/css/images/overlay.png'), url('/static/images/chel5.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -175,7 +214,7 @@ There's no parking on site, so all drivers will need to park at the train statio
 /* Two */
 
 	#two {
-		background: url('/static/assets/css/images/overlay.png'), url('/static/images/KAwed.jpg');
+		background: url('/static/assets/css/images/overlay.png'), url('/static/images/heroimage.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -217,11 +256,18 @@ There's no parking on site, so all drivers will need to park at the train statio
   /* Three */
 
   	#details {
-		background: url('/static/assets/css/images/overlay.png'), url('/static/images/Ritball.jpg');
+		background: url('/static/assets/css/images/overlay.png'), url('/static/images/chel3.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+		#four {
+		background: url('/static/assets/css/images/overlay.png'), url('/static/images/chel4.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+  }
 
   
   .content{
